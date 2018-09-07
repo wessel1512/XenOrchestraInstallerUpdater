@@ -12,7 +12,7 @@
 #XOUSER="node"
 
 # Port number where xen-orchestra service is bound
-PORT="80"
+PORT="8080"
 
 # Base dir for installation and future updates
 INSTALLDIR="/etc/xo"
